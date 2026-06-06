@@ -1,0 +1,3 @@
+1 tener claves diferentes en los sitios web que utilizas constantemente
+2 evitar compartir toens de sitios de programacion ara evitar que los demas lo uedan clonar
+3 tratar de mantener las ultimas actualizaciones del sistema operativo para obteter toda la informacion real
