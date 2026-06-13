@@ -1,0 +1,5 @@
+cada persona debe de tener una credencial unica.
+se debe de actualizar la pagina web en el menor tiempo posible.
+la interfaz debe tener la informacion de interes general.
+la agina web debe de contener informacion verificada.
+se debe crear un limite para que no todas la comunidad tenga acceso a toda la informacion y mas si son de proyectos.

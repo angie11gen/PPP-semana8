@@ -1,0 +1,2 @@
+me aparece linux codesace este es importante porque es bueno identificar con que sistema operativo se esta trabajando ademas de los datos esecificos del espacio de codigo.
+me aparece el esacio real donde estoy realizando los cambios esta actividad desde el codespace y esi es.
